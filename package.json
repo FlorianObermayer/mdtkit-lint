@@ -16,10 +16,10 @@
 
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/florian_obermayer/mdtkit-lint"
+    "url": "https://github.com/FlorianObermayer/mdtkit-lint"
   },
 
-  "bugs": "https://bitbucket.org/florian_obermayer/mdtkit-lint/issues",
+  "bugs": "https://github.com/FlorianObermayer/mdtkit-lint/issues",
 
   "license": "MIT",
 
