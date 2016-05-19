@@ -14,7 +14,13 @@
     "atom-workspace": "mdtkit-lint:toggle"
   },
 
-  "repository": "https://bitbucket.org/florian_obermayer/mdtkit-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/florian_obermayer/mdtkit-lint"
+  },
+
+  "bugs": "https://bitbucket.org/florian_obermayer/mdtkit-lint/issues",
+
   "license": "MIT",
 
   "engines": {
