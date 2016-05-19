@@ -1,4 +1,4 @@
-# atom-mdtkit-lint package
+# mdtkit-lint package
 
 A short description of your package.
 

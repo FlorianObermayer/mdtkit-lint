@@ -4,11 +4,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-mdtkit-lint",
+          "label": "mdtkit-lint",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "atom-mdtkit-lint:toggle"
+              "command": "mdtkit-lint:toggle"
             }
           ]
         }

@@ -1,13 +1,13 @@
 'use babel';
 
-import AtomMdtkitLint from '../lib/atom-mdtkit-lint';
+import AtomMdtkitLint from '../lib/mdtkit-lint';
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
 // To run a specific `it` or `describe` block add an `f` to the front (e.g. `fit`
 // or `fdescribe`). Remove the `f` to unfocus the block.
 
-describe('AtomMdtkitLint', () => {
+describe('MdtkitLint', () => {
   let workspaceElement, activationPromise;
 
   beforeEach(() => {

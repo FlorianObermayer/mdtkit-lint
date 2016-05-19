@@ -1,6 +1,6 @@
 {
-  "name": "atom-mdtkit-lint",
-  "main": "./lib/atom-mdtkit-lint",
+  "name": "mdtkit-lint",
+  "main": "./lib/mdtkit-lint",
   "version": "0.0.3",
   "description": "A plugin for Atom Linter providing an linting for the MDTKit",
 
@@ -11,10 +11,10 @@
   ],
 
   "activationCommands": {
-    "atom-workspace": "atom-mdtkit-lint:toggle"
+    "atom-workspace": "mdtkit-lint:toggle"
   },
-  
-  "repository": "https://github.com/atom/atom-mdtkit-lint",
+
+  "repository": "https://bitbucket.org/florian_obermayer/mdtkit-parser",
   "license": "MIT",
 
   "engines": {
