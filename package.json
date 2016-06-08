@@ -1,7 +1,7 @@
 {
   "name": "mdtkit-lint",
   "main": "./lib/mdtkit-lint",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A plugin for Atom Linter providing linting for the MDTKit",
   "keywords": [
     "lint",
@@ -30,7 +30,7 @@
     "lodash": "latest",
     "mdtkit-parser": "latest"
   },
-  "devDependencies" : {
+  "devDependencies": {
     "eslint": "^2.9.0",
     "eslint-config-airbnb-base": "^3.0.1",
     "eslint-plugin-import": "^1.7.0"
@@ -40,27 +40,27 @@
     "markdown-format"
   ],
   "eslintConfig": {
-     "rules": {
-       "comma-dangle": 0,
-       "global-require": 0,
-       "import/no-unresolved": [
-         2,
-         {
-           "ignore": [
-             "atom"
-           ]
-         }
-       ]
-     },
-     "extends": "airbnb-base",
-     "globals": {
-       "atom": true
-     },
-     "env": {
-       "es6": true,
-       "node": true
-     }
-   },
+    "rules": {
+      "comma-dangle": 0,
+      "global-require": 0,
+      "import/no-unresolved": [
+        2,
+        {
+          "ignore": [
+            "atom"
+          ]
+        }
+      ]
+    },
+    "extends": "airbnb-base",
+    "globals": {
+      "atom": true
+    },
+    "env": {
+      "es6": true,
+      "node": true
+    }
+  },
   "providedServices": {
     "linter": {
       "versions": {
