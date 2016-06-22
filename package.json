@@ -2,7 +2,7 @@
   "name": "mdtkit-lint",
   "author": "Florian Obermayer",
   "main": "lib/mdtkit-lint.js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A plugin for Atom Linter providing linting for the MDTKit",
   "keywords": [
     "lint",
